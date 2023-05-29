@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>283199328375-n3gor6a01k67o5qt1r9esq87had0nkru.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.283199328375-n3gor6a01k67o5qt1r9esq87had0nkru</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBTLhP9H7vTIQ94jb88e-da9msD1uR2zbI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>283199328375</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.expirydatefyp</string>
+	<key>PROJECT_ID</key>
+	<string>expirydatealert</string>
+	<key>STORAGE_BUCKET</key>
+	<string>expirydatealert.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:283199328375:ios:9d8e8f67c3f15cb0c4f672</string>
+</dict>
+</plist>

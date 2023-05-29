@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "283199328375",
+    "project_id": "expirydatealert",
+    "storage_bucket": "expirydatealert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283199328375:android:bdb1ec09bc9f6c73c4f672",
+        "android_client_info": {
+          "package_name": "com.example.expirydatefyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283199328375-mpucesei1tmcg4ob60lmb44uadngj5v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUmRo1qCujQsE7EsPnxP2uT6rT0PIF14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283199328375-mpucesei1tmcg4ob60lmb44uadngj5v4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283199328375-n3gor6a01k67o5qt1r9esq87had0nkru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expirydatefyp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
